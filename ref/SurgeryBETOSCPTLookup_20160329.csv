@@ -1,0 +1,200 @@
+key,betos_code,betos_desc,proc_code,cpt_desc
+catpreop,P4B,Eye procedure - cataract removal/lens insertion,66830,REMOVAL OF LENS LESION
+catpreop,P4B,Eye procedure - cataract removal/lens insertion,66840,REMOVAL OF LENS MATERIAL
+catpreop,P4B,Eye procedure - cataract removal/lens insertion,66850,REMOVAL OF LENS MATERIAL
+catpreop,P4B,Eye procedure - cataract removal/lens insertion,66852,REMOVAL OF LENS MATERIAL
+catpreop,P4B,Eye procedure - cataract removal/lens insertion,66920,EXTRACTION OF LENS
+catpreop,P4B,Eye procedure - cataract removal/lens insertion,66930,EXTRACTION OF LENS
+catpreop,P4B,Eye procedure - cataract removal/lens insertion,66940,EXTRACTION OF LENS
+catpreop,P4B,Eye procedure - cataract removal/lens insertion,66982,CATARACT SURGERY COMPLEX
+catpreop,P4B,Eye procedure - cataract removal/lens insertion,66983,CATARACT SURG W/IOL 1 STAGE
+catpreop,P4B,Eye procedure - cataract removal/lens insertion,66984,CATARACT SURG W/IOL 1 STAGE
+catpreop,P4B,Eye procedure - cataract removal/lens insertion,66985,INSERT LENS PROSTHESIS
+catpreop,P4B,Eye procedure - cataract removal/lens insertion,66986,EXCHANGE LENS PROSTHESIS
+nonpreop,P1A,Major procedure - breast,19081,BX BREAST 1ST LESION STRTCTC
+nonpreop,P1A,Major procedure - breast,19082,BX BREAST ADD LESION STRTCTC
+nonpreop,P1A,Major procedure - breast,19083,BX BREAST 1ST LESION US IMAG
+nonpreop,P1A,Major procedure - breast,19084,BX BREAST ADD LESION US IMAG
+nonpreop,P1A,Major procedure - breast,19085,BX BREAST 1ST LESION MR IMAG
+nonpreop,P1A,Major procedure - breast,19086,BX BREAST ADD LESION MR IMAG
+nonpreop,P1A,Major procedure - breast,19105,CRYOSURG ABLATE FA EACH
+nonpreop,P1A,Major procedure - breast,19110,NIPPLE EXPLORATION
+nonpreop,P1A,Major procedure - breast,19112,EXCISE BREAST DUCT FISTULA
+nonpreop,P1A,Major procedure - breast,19281,PERQ DEVICE BREAST 1ST IMAG
+nonpreop,P1A,Major procedure - breast,19282,PERQ DEVICE BREAST EA IMAG
+nonpreop,P1A,Major procedure - breast,19283,PERQ DEV BREAST 1ST STRTCTC
+nonpreop,P1A,Major procedure - breast,19284,PERQ DEV BREAST ADD STRTCTC
+nonpreop,P1A,Major procedure - breast,19285,PERQ DEV BREAST 1ST US IMAG
+nonpreop,P1A,Major procedure - breast,19286,PERQ DEV BREAST ADD US IMAG
+nonpreop,P1A,Major procedure - breast,19287,PERQ DEV BREAST 1ST MR GUIDE
+nonpreop,P1A,Major procedure - breast,19288,PERQ DEV BREAST ADD MR GUIDE
+nonpreop,P1A,Major procedure - breast,19296,PLACE PO BREAST CATH FOR RAD
+nonpreop,P1A,Major procedure - breast,19297,PLACE BREAST CATH FOR RAD
+nonpreop,P1A,Major procedure - breast,19298,PLACE BREAST RAD TUBE/CATHS
+nonpreop,P1A,Major procedure - breast,19300,REMOVAL OF BREAST TISSUE
+nonpreop,P1A,Major procedure - breast,19301,PARTIAL MASTECTOMY
+nonpreop,P1A,Major procedure - breast,19302,P-MASTECTOMY W/LN REMOVAL
+nonpreop,P1A,Major procedure - breast,19303,MAST SIMPLE COMPLETE
+nonpreop,P1A,Major procedure - breast,19304,MAST SUBQ
+nonpreop,P1A,Major procedure - breast,19305,MAST RADICAL
+nonpreop,P1A,Major procedure - breast,19306,MAST RAD URBAN TYPE
+nonpreop,P1A,Major procedure - breast,19307,MAST MOD RAD
+nonpreop,P1A,Major procedure - breast,19316,SUSPENSION OF BREAST
+nonpreop,P1A,Major procedure - breast,19318,REDUCTION OF LARGE BREAST
+nonpreop,P1A,Major procedure - breast,19324,ENLARGE BREAST
+nonpreop,P1A,Major procedure - breast,19325,ENLARGE BREAST WITH IMPLANT
+nonpreop,P1A,Major procedure - breast,19328,REMOVAL OF BREAST IMPLANT
+nonpreop,P1A,Major procedure - breast,19330,REMOVAL OF IMPLANT MATERIAL
+nonpreop,P1A,Major procedure - breast,19340,IMMEDIATE BREAST PROSTHESIS
+nonpreop,P1A,Major procedure - breast,19342,DELAYED BREAST PROSTHESIS
+nonpreop,P1A,Major procedure - breast,19350,BREAST RECONSTRUCTION
+nonpreop,P1A,Major procedure - breast,19357,BREAST RECONSTRUCTION
+nonpreop,P1A,Major procedure - breast,19361,BREAST RECONSTR W/LAT FLAP
+nonpreop,P1A,Major procedure - breast,19364,BREAST RECONSTRUCTION
+nonpreop,P1A,Major procedure - breast,19366,BREAST RECONSTRUCTION
+nonpreop,P1A,Major procedure - breast,19367,BREAST RECONSTRUCTION
+nonpreop,P1A,Major procedure - breast,19368,BREAST RECONSTRUCTION
+nonpreop,P1A,Major procedure - breast,19369,BREAST RECONSTRUCTION
+nonpreop,P1A,Major procedure - breast,19370,SURGERY OF BREAST CAPSULE
+nonpreop,P1A,Major procedure - breast,19371,REMOVAL OF BREAST CAPSULE
+nonpreop,P1A,Major procedure - breast,19380,REVISE BREAST RECONSTRUCTION
+nonpreop,P1A,Major procedure - breast,19499,BREAST SURGERY PROCEDURE
+nonpreop,P1A,Major procedure - breast,27412,AUTOCHONDROCYTE IMPLANT KNEE
+nonpreop,P1A,Major procedure - breast,27415,OSTEOCHONDRAL KNEE ALLOGRAFT
+nonpreop,P1A,Major procedure - breast,29866,AUTGRFT IMPLNT KNEE W/SCOPE
+nonpreop,P1A,Major procedure - breast,29868,MENISCAL TRNSPL KNEE W/SCPE
+nonpreop,P1D,Major procedure - turp,52601,PROSTATECTOMY (TURP)
+nonpreop,P1D,Major procedure - turp,52630,REMOVE PROSTATE REGROWTH
+nonpreop,P1D,Major procedure - turp,52640,RELIEVE BLADDER CONTRACTURE
+nonpreop,P1D,Major procedure - turp,52647,LASER SURGERY OF PROSTATE
+nonpreop,P1D,Major procedure - turp,52648,LASER SURGERY OF PROSTATE
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,C9729,PERCUT LUMBAR LAMI
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,0202T,POST VERT ARTHRPLST 1 LUMBAR
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,32503,RESECT APICAL LUNG TUMOR
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63001,REMOVE SPINE LAMINA 1/2 CRVL
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63003,REMOVE SPINE LAMINA 1/2 THRC
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63005,REMOVE SPINE LAMINA 1/2 LMBR
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63011,REMOVE SPINE LAMINA 1/2 SCRL
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63015,REMOVE SPINE LAMINA >2 CRVCL
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63016,REMOVE SPINE LAMINA >2 THRC
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63017,REMOVE SPINE LAMINA >2 LMBR
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63020,NECK SPINE DISK SURGERY
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63030,LOW BACK DISK SURGERY
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63035,SPINAL DISK SURGERY ADD-ON
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63040,LAMINOTOMY SINGLE CERVICAL
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63042,LAMINOTOMY SINGLE LUMBAR
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63043,LAMINOTOMY ADDL CERVICAL
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63044,LAMINOTOMY ADDL LUMBAR
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63045,REMOVE SPINE LAMINA 1 CRVL
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63046,REMOVE SPINE LAMINA 1 THRC
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63047,REMOVE SPINE LAMINA 1 LMBR
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63048,REMOVE SPINAL LAMINA ADD-ON
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63055,DECOMPRESS SPINAL CORD THRC
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63056,DECOMPRESS SPINAL CORD LMBR
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63057,DECOMPRESS SPINE CORD ADD-ON
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63064,DECOMPRESS SPINAL CORD THRC
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63066,DECOMPRESS SPINE CORD ADD-ON
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63075,NECK SPINE DISK SURGERY
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63076,NECK SPINE DISK SURGERY
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63077,SPINE DISK SURGERY THORAX
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63078,SPINE DISK SURGERY THORAX
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63081,REMOVE VERT BODY DCMPRN CRVL
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63082,REMOVE VERTEBRAL BODY ADD-ON
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63085,REMOVE VERT BODY DCMPRN THRC
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63086,REMOVE VERTEBRAL BODY ADD-ON
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63087,REMOV VERTBR DCMPRN THRCLMBR
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63088,REMOVE VERTEBRAL BODY ADD-ON
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63090,REMOVE VERT BODY DCMPRN LMBR
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63091,REMOVE VERTEBRAL BODY ADD-ON
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63170,INCISE SPINAL CORD TRACT(S)
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63172,DRAINAGE OF SPINAL CYST
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63173,DRAINAGE OF SPINAL CYST
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63180,REVISE SPINAL CORD LIGAMENTS
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63182,REVISE SPINAL CORD LIGAMENTS
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63185,INCISE SPINE NRV HALF SEGMNT
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63190,INCISE SPINE NRV >2 SEGMNTS
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63191,INCISE SPINE ACCESSORY NERVE
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63194,INCISE SPINE & CORD CERVICAL
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63195,INCISE SPINE & CORD THORACIC
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63196,INCISE SPINE&CORD 2 TRX CRVL
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63197,INCISE SPINE&CORD 2 TRX THRC
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63198,INCISE SPIN&CORD 2 STGS CRVL
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63199,INCISE SPIN&CORD 2 STGS THRC
+nonpreop,P1F,Major procedure - explor/decompr/excisdisc,63200,RELEASE SPINAL CORD LUMBAR
+nonpreop,P4A,Eye procedure - corneal transplant,65710,CORNEAL TRANSPLANT
+nonpreop,P4A,Eye procedure - corneal transplant,65730,CORNEAL TRANSPLANT
+nonpreop,P4A,Eye procedure - corneal transplant,65750,CORNEAL TRANSPLANT
+nonpreop,P4A,Eye procedure - corneal transplant,65755,CORNEAL TRANSPLANT
+nonpreop,P4A,Eye procedure - corneal transplant,65756,CORNEAL TRNSPL ENDOTHELIAL
+nonpreop,P4A,Eye procedure - corneal transplant,65757,PREP CORNEAL ENDO ALLOGRAFT
+nonpreop,P4A,Eye procedure - corneal transplant,65760,REVISION OF CORNEA
+nonpreop,P4A,Eye procedure - corneal transplant,65765,REVISION OF CORNEA
+nonpreop,P4A,Eye procedure - corneal transplant,65767,CORNEAL TISSUE TRANSPLANT
+nonpreop,P4A,Eye procedure - corneal transplant,65770,REVISE CORNEA WITH IMPLANT
+nonpreop,P5C,Ambulatory procedures - inguinal hernia repair,49495,RPR ING HERNIA BABY REDUC
+nonpreop,P5C,Ambulatory procedures - inguinal hernia repair,49505,PRP I/HERN INIT REDUC >5 YR
+nonpreop,P5C,Ambulatory procedures - inguinal hernia repair,49520,REREPAIR ING HERNIA REDUCE
+nonpreop,P5C,Ambulatory procedures - inguinal hernia repair,49525,REPAIR ING HERNIA SLIDING
+nonpreop,P5C,Ambulatory procedures - inguinal hernia repair,49550,RPR REM HERNIA INIT REDUCE
+nonpreop,P5C,Ambulatory procedures - inguinal hernia repair,49555,REREPAIR FEM HERNIA REDUCE
+nonpreop,P5D,Ambulatory procedures - lithotripsy,0019T,EXTRACORP SHOCK WV TX MS NOS
+nonpreop,P5D,Ambulatory procedures - lithotripsy,50590,FRAGMENTING OF KIDNEY STONE
+nonpreop,P8A,Endoscopy - arthroscopy,G0289,"ARTHRO, LOOSE BODY + CHONDRO"
+nonpreop,P8A,Endoscopy - arthroscopy,29800,JAW ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29804,JAW ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29819,SHOULDER ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29820,SHOULDER ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29821,SHOULDER ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29822,SHOULDER ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29823,SHOULDER ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29825,SHOULDER ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29826,SHOULDER ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29827,ARTHROSCOP ROTATOR CUFF REPR
+nonpreop,P8A,Endoscopy - arthroscopy,29830,ELBOW ARTHROSCOPY
+nonpreop,P8A,Endoscopy - arthroscopy,29834,ELBOW ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29835,ELBOW ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29836,ELBOW ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29837,ELBOW ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29838,ELBOW ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29840,WRIST ARTHROSCOPY
+nonpreop,P8A,Endoscopy - arthroscopy,29843,WRIST ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29844,WRIST ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29845,WRIST ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29846,WRIST ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29847,WRIST ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29848,WRIST ENDOSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29850,KNEE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29851,KNEE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29855,TIBIAL ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29856,TIBIAL ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29860,HIP ARTHROSCOPY DX
+nonpreop,P8A,Endoscopy - arthroscopy,29861,HIP ARTHRO W/FB REMOVAL
+nonpreop,P8A,Endoscopy - arthroscopy,29862,HIP ARTHR0 W/DEBRIDEMENT
+nonpreop,P8A,Endoscopy - arthroscopy,29863,HIP ARTHR0 W/SYNOVECTOMY
+nonpreop,P8A,Endoscopy - arthroscopy,29870,KNEE ARTHROSCOPY DX
+nonpreop,P8A,Endoscopy - arthroscopy,29871,KNEE ARTHROSCOPY/DRAINAGE
+nonpreop,P8A,Endoscopy - arthroscopy,29874,KNEE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29875,KNEE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29876,KNEE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29877,KNEE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29879,KNEE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29880,KNEE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29881,KNEE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29882,KNEE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29883,KNEE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29884,KNEE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29885,KNEE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29886,KNEE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29887,KNEE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29888,KNEE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29889,KNEE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29891,ANKLE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29892,ANKLE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29894,ANKLE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29895,ANKLE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29897,ANKLE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29898,ANKLE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29899,ANKLE ARTHROSCOPY/SURGERY
+nonpreop,P8A,Endoscopy - arthroscopy,29914,HIP ARTHRO W/FEMOROPLASTY
+nonpreop,P8A,Endoscopy - arthroscopy,29915,HIP ARTHRO ACETABULOPLASTY
+nonpreop,P8A,Endoscopy - arthroscopy,29916,HIP ARTHRO W/LABRAL REPAIR
