@@ -130,3 +130,8 @@ More about specific modules
                 17  second_data  = None (alternatively: brings in additional service data (drugs or surgeries for metrics that use both))
                 18  window_date  = None (date for start of study period)
             
+            
+Main citation: 
+This work is an adaptation of a study by Colla et al that was published in JGIM in 2014:
+https://www.ncbi.nlm.nih.gov/pubmed/25373832
+PMID: 25373832 
