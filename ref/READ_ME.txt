@@ -1,6 +1,6 @@
 This directory's (redflags, indications, services and surgery codes) are for ICD-9 basis and were adapted from Colla et al.
 
-Colla Appendix 2 for each metric has been adapted and split into these tables, which were used for the mapping implementations.
+Colla et al.'s Appendix 2 for each metric has been adapted and split into these tables, which were used in the mapping implementations.
 ) DemoLookup_20160630                   
 ) ServiceLookup_20170420
 ) IndicationsLookup_wo_op_20170211a
